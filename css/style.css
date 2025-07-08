@@ -1,0 +1,71 @@
+.text-white {
+    color: #e9ecef;
+}
+.hi-black {
+    color: #1c2125;
+}
+.hi-bgblack {
+    background-color: #1c2125;
+}
+.hi-red {
+    color: #cc0000;
+}
+.hi-bgred {
+    background-color: #cc0000;
+}
+.hi-outred {
+    border: 1px solid #cc0000;
+    background-color: transparent;
+    color: #cc0000;
+}
+.hi-yellow {
+    color: #faff00;
+}
+.hi-outyellow {
+    border: 1px solid #faff00;
+    background-color: transparent;
+    color: #faff00;
+}
+.hi-bgyellow {
+    background-color: #faff00;
+}
+.hi-grey {
+    color: #b2b7bb;
+}
+.hi-green {
+    color: #45f98d;
+}
+.hi-bggreen {
+    background-color: #45f98d;
+}
+.hi-blue {
+    color: #0000cc;
+}
+.hi-outblue {
+    border: 1px solid #0000cc;
+    background-color: transparent;
+    color: #0000cc;
+}
+.hi-bgblue {
+    background-color: #0000cc;
+}
+
+tr {
+    background-color: #1c2125;
+}
+th {
+    background-color: #1c2125;
+}
+
+.outline-warning {
+    border: 2px solid orange;
+}
+
+.outline-danger {
+    border: 2px solid red;
+}
+
+.hi-bgyellow, .hi-bgred {
+    /* When the actual pen slot is visible, it will replace the placeholder */
+    border: none;
+}
